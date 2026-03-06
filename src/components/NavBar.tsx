@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Mail, Menu, X, Briefcase, Settings, MessageSquare } from "lucide-react";
+import logo from "../assets/logo.png";
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 
@@ -115,7 +116,7 @@ export default function Navbar() {
                 {/* Glow on hover */}
                 <span className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-solutiva-accent/10 dark:bg-solutiva-dark-accent/10" />
                 <img
-                  src="/logo.png"
+                  src={logo}
                   alt="Solutiva"
                   className="h-6 w-6 object-contain relative z-10 group-hover:scale-110 transition-transform duration-300 dark:brightness-110"
                 />

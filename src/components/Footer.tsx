@@ -1,5 +1,6 @@
 import { Mail, Phone, MapPin, Linkedin, Instagram, Twitter, ArrowUpRight, Sparkles } from "lucide-react";
 import { Link } from "react-router-dom";
+import logo from "../assets/logo.png";
 
 // ─── Datos ────────────────────────────────────────────────────────────────────
 
@@ -75,7 +76,7 @@ export default function Footer() {
             <Link to="/" className="inline-flex items-center gap-3 group">
               <div className="h-9 w-9 rounded-xl bg-white dark:bg-solutiva-dark-card border border-solutiva-border dark:border-white/10 shadow-sm flex items-center justify-center overflow-hidden group-hover:shadow-md transition-all">
                 <img
-                  src="/logo.png"
+                  src={logo}
                   alt="Solutiva"
                   className="h-5 w-5 object-contain dark:brightness-110 group-hover:scale-110 transition-transform duration-300"
                 />
