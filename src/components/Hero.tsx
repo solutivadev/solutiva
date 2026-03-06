@@ -1,4 +1,4 @@
-import React from 'react';
+;
 // 1. Importación de componentes de iconos
 import AdobeillustratorIcon from "./icons/adobeillustrator";
 import CssIcon from "./icons/css";

@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const VisualstudiocodeIcon = ({ size = 24 }) => {
   return (

@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const ExpoIcon = ({ size = 24 }) => {
   return (

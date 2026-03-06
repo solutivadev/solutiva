@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const AdobeillustratorIcon = ({ size = 24 }) => {
   return (

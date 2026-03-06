@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const TypescriptIcon = ({ size = 24 }) => {
   return (

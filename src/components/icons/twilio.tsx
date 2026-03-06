@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const TwilioIcon = ({ size = 24 }) => {
   return (

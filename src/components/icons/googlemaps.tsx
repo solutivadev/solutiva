@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const GooglemapsIcon = ({ size = 24 }) => {
   return (

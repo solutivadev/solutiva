@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const StripeIcon = ({ size = 24 }) => {
   return (

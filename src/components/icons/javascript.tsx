@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const JavascriptIcon = ({ size = 24 }) => {
   return (

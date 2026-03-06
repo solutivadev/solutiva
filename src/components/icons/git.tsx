@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const GitIcon = ({ size = 24 }) => {
   return (

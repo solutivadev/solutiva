@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const ViteIcon = ({ size = 24 }) => {
   return (

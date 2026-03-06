@@ -1,4 +1,4 @@
-import React from 'react';
+;
 
 const Css3Icon = ({ size = 24 }) => {
   return (
